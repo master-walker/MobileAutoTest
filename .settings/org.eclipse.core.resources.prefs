@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/common/base_page.py=UTF-8
+encoding//src/common/my_test.py=utf-8
+encoding//src/common/public.py=utf-8
+encoding//src/element/elements.py=utf-8
+encoding//src/execute_script/execute_test_case.py=utf-8
+encoding//src/execute_script/test_home_page.py=utf-8
+encoding//src/testcase/home_page.py=utf-8
