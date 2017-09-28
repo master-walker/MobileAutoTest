@@ -1251,3 +1251,155 @@
 2017-09-10 11:09:32,341 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  open_notifications line:236  open notification
 2017-09-10 11:09:35,535 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  lock line:260  lock the device 3 seconds
 2017-09-10 11:09:37,365 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\my_test.py  tearDown line:25  ###############################  End  ###############################
+2017-09-23 15:47:10,032 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\my_test.py  setUp line:20  
+
+2017-09-23 15:47:10,085 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\my_test.py  setUp line:21  ############################### START ###############################
+2017-09-23 15:47:10,085 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\testcase\login_page.py  login line:19  ---------------------------------------------------------------------------
+2017-09-23 15:47:11,394 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  _get_elements line:47  SUCCESS    getElement 用户名, Spend 1.30599999428 seconds
+2017-09-23 15:47:12,204 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  _get_elements line:47  SUCCESS    getElement 密码, Spend 0.8109998703 seconds
+2017-09-23 15:47:20,328 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  input line:118  用户名 input sdjk125, Spend 10.242000103 seconds
+2017-09-23 15:47:28,510 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  input line:118  密码 input hs00147, Spend 18.4249999523 seconds
+2017-09-23 15:47:30,536 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  _get_elements line:47  SUCCESS    getElement 登录, Spend 0.0239999294281 seconds
+2017-09-23 15:47:31,533 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  click line:133  登录 click  Spend 0.99799990654 seconds
+2017-09-23 15:47:33,535 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\testcase\login_page.py  login line:22  login in  Spend 23.4490001202 seconds
+2017-09-23 15:47:42,598 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  _get_elements line:47  SUCCESS    getElement 发帖输入框, Spend 1.30500006676 seconds
+2017-09-23 15:47:42,740 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  click line:133  发帖输入框 click  Spend 0.142999887466 seconds
+2017-09-23 15:47:44,867 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  _get_elements line:47  SUCCESS    getElement 发帖输入框, Spend 0.125 seconds
+2017-09-23 15:47:53,098 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  input line:114  发帖输入框 input test, Spend 8.35599994659 seconds
+2017-09-23 15:47:55,220 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  _get_elements line:47  SUCCESS    getElement 发布, Spend 0.121999979019 seconds
+2017-09-23 15:47:55,512 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  click line:133  发布 click  Spend 0.291000127792 seconds
+2017-09-23 15:47:58,493 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  take_screen_shot line:254  take screen shot in E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\report\screenshot/2017-09-23-15-47.jpeg
+2017-09-23 15:47:59,677 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  _get_elements line:47  SUCCESS    getElement 发帖输入框, Spend 0.154000043869 seconds
+2017-09-23 15:47:59,861 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  _get_elements line:47  SUCCESS    getElement 发帖输入框, Spend 0.151000022888 seconds
+2017-09-23 15:48:00,046 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  _get_elements line:47  SUCCESS    getElement 发帖输入框, Spend 0.155999898911 seconds
+2017-09-23 15:48:00,895 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  close_app line:221  close app
+2017-09-23 15:48:05,342 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  launch line:216  launch app
+2017-09-23 15:48:11,033 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  background line:230  make app background 3 seconds
+2017-09-23 15:48:11,052 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  open_notifications line:236  open notification
+2017-09-23 15:48:12,331 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  lock line:260  lock the device 3 seconds
+2017-09-23 15:48:13,252 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\my_test.py  tearDown line:25  ###############################  End  ###############################
+2017-09-23 16:28:55,315 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\my_test.py  setUp line:20  
+
+2017-09-23 16:28:55,315 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\my_test.py  setUp line:21  ############################### START ###############################
+2017-09-23 16:28:55,315 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\testcase\login_page.py  login line:19  ---------------------------------------------------------------------------
+2017-09-23 16:28:55,707 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  _get_elements line:47  SUCCESS    getElement 用户名, Spend 0.391000032425 seconds
+2017-09-23 16:28:55,763 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  _get_elements line:47  SUCCESS    getElement 密码, Spend 0.055999994278 seconds
+2017-09-23 16:29:02,063 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  input line:118  用户名 input sdjk125, Spend 6.74799990654 seconds
+2017-09-23 16:29:08,736 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  input line:118  密码 input hs00147, Spend 13.4210000038 seconds
+2017-09-23 16:29:10,762 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  _get_elements line:47  SUCCESS    getElement 登录, Spend 0.0250000953674 seconds
+2017-09-23 16:29:11,355 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  click line:133  登录 click  Spend 0.59299993515 seconds
+2017-09-23 16:29:13,355 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\testcase\login_page.py  login line:22  login in  Spend 18.0399999619 seconds
+2017-09-23 16:29:21,973 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  _get_elements line:47  SUCCESS    getElement 发帖输入框, Spend 0.943000078201 seconds
+2017-09-23 16:29:22,137 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  click line:133  发帖输入框 click  Spend 0.163000106812 seconds
+2017-09-23 16:29:24,309 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  _get_elements line:47  SUCCESS    getElement 发帖输入框, Spend 0.172999858856 seconds
+2017-09-23 16:29:32,980 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  input line:114  发帖输入框 input test, Spend 8.84299993515 seconds
+2017-09-23 16:29:35,140 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  _get_elements line:47  SUCCESS    getElement 发布, Spend 0.15900015831 seconds
+2017-09-23 16:29:35,533 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  click line:133  发布 click  Spend 0.393999814987 seconds
+2017-09-23 16:29:39,206 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  take_screen_shot line:254  take screen shot in E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\report\screenshot/2017-09-23-16-28.jpeg
+2017-09-23 16:29:40,154 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  _get_elements line:47  SUCCESS    getElement 发帖输入框, Spend 0.141999959946 seconds
+2017-09-23 16:29:40,346 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  _get_elements line:47  SUCCESS    getElement 发帖输入框, Spend 0.164999961853 seconds
+2017-09-23 16:29:40,581 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  _get_elements line:47  SUCCESS    getElement 发帖输入框, Spend 0.183000087738 seconds
+2017-09-23 16:29:41,608 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  close_app line:221  close app
+2017-09-23 16:29:44,210 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  launch line:216  launch app
+2017-09-23 16:29:49,884 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  background line:230  make app background 3 seconds
+2017-09-23 16:29:49,947 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  open_notifications line:236  open notification
+2017-09-23 16:29:51,326 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  lock line:260  lock the device 3 seconds
+2017-09-23 16:29:53,671 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\my_test.py  tearDown line:25  ###############################  End  ###############################
+2017-09-23 17:11:23,688 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\my_test.py  setUp line:20  
+
+2017-09-23 17:11:23,688 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\my_test.py  setUp line:21  ############################### START ###############################
+2017-09-23 17:11:23,688 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\testcase\login_page.py  login line:19  ---------------------------------------------------------------------------
+2017-09-23 17:11:24,042 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  _get_elements line:47  SUCCESS    getElement 用户名, Spend 0.354000091553 seconds
+2017-09-23 17:11:24,084 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  _get_elements line:47  SUCCESS    getElement 密码, Spend 0.0410001277924 seconds
+2017-09-23 17:11:30,417 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  input line:118  用户名 input sdjk1251, Spend 6.72800016403 seconds
+2017-09-23 17:11:37,331 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  input line:118  密码 input hs00147, Spend 13.6420001984 seconds
+2017-09-23 17:11:39,355 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  _get_elements line:47  SUCCESS    getElement 登录, Spend 0.0249998569489 seconds
+2017-09-23 17:11:42,490 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  click line:133  登录 click  Spend 3.132999897 seconds
+2017-09-23 17:11:44,490 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\testcase\login_page.py  login line:22  login in  Spend 20.8020000458 seconds
+2017-09-23 17:12:14,688 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  _get_elements line:51  FAIL    getElement .//*[contains(@text,'用户名不存在')], Spend 30.1979999542 seconds
+2017-09-23 17:12:16,854 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\my_test.py  tearDown line:25  ###############################  End  ###############################
+2017-09-23 17:18:32,700 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\my_test.py  setUp line:20  
+
+2017-09-23 17:18:32,700 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\my_test.py  setUp line:21  ############################### START ###############################
+2017-09-23 17:18:32,700 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\testcase\login_page.py  login line:22  ---------------------------------------------------------------------------
+2017-09-23 17:18:33,023 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  _get_elements line:47  SUCCESS    getElement 用户名, Spend 0.322000026703 seconds
+2017-09-23 17:18:33,187 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  _get_elements line:47  SUCCESS    getElement 密码, Spend 0.164999961853 seconds
+2017-09-23 17:18:39,944 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  input line:118  用户名 input sdjk1251, Spend 7.24399995804 seconds
+2017-09-23 17:18:46,983 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  input line:118  密码 input hs00147, Spend 14.2829999924 seconds
+2017-09-23 17:18:49,049 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  _get_elements line:47  SUCCESS    getElement 登录, Spend 0.0650000572205 seconds
+2017-09-23 17:18:52,174 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  click line:133  登录 click  Spend 3.12599992752 seconds
+2017-09-23 17:18:54,174 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\testcase\login_page.py  login line:25  login in  Spend 21.4749999046 seconds
+2017-09-23 17:18:56,812 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\my_test.py  tearDown line:25  ###############################  End  ###############################
+2017-09-23 17:21:33,503 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\my_test.py  setUp line:20  
+
+2017-09-23 17:21:33,503 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\my_test.py  setUp line:21  ############################### START ###############################
+2017-09-23 17:21:33,505 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\testcase\login_page.py  login line:22  ---------------------------------------------------------------------------
+2017-09-23 17:21:33,865 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  _get_elements line:47  SUCCESS    getElement 用户名, Spend 0.360999822617 seconds
+2017-09-23 17:21:33,976 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  _get_elements line:47  SUCCESS    getElement 密码, Spend 0.110000133514 seconds
+2017-09-23 17:21:41,323 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  input line:118  用户名 input sdjk1251, Spend 7.8189997673 seconds
+2017-09-23 17:21:48,451 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  input line:118  密码 input hs00147, Spend 14.9469997883 seconds
+2017-09-23 17:21:50,500 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  _get_elements line:47  SUCCESS    getElement 登录, Spend 0.0480000972748 seconds
+2017-09-23 17:21:53,622 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  click line:133  登录 click  Spend 3.12299990654 seconds
+2017-09-23 17:21:55,624 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\testcase\login_page.py  login line:25  login in  Spend 22.118999958 seconds
+2017-09-23 17:22:19,625 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\my_test.py  tearDown line:25  ###############################  End  ###############################
+2017-09-23 17:22:40,263 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\my_test.py  setUp line:20  
+
+2017-09-23 17:22:40,263 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\my_test.py  setUp line:21  ############################### START ###############################
+2017-09-23 17:22:40,263 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\testcase\login_page.py  login line:22  ---------------------------------------------------------------------------
+2017-09-23 17:22:40,586 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  _get_elements line:47  SUCCESS    getElement 用户名, Spend 0.322999954224 seconds
+2017-09-23 17:22:40,782 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  _get_elements line:47  SUCCESS    getElement 密码, Spend 0.195000171661 seconds
+2017-09-23 17:22:47,467 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  input line:118  用户名 input sdjk1251, Spend 7.20300006866 seconds
+2017-09-23 17:22:54,381 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  input line:118  密码 input hs00147, Spend 14.117000103 seconds
+2017-09-23 17:22:56,434 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  _get_elements line:47  SUCCESS    getElement 登录, Spend 0.0520000457764 seconds
+2017-09-23 17:22:59,562 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  click line:133  登录 click  Spend 3.1289999485 seconds
+2017-09-23 17:23:01,562 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\testcase\login_page.py  login line:25  login in  Spend 21.2990000248 seconds
+2017-09-23 17:23:07,049 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\my_test.py  tearDown line:25  ###############################  End  ###############################
+2017-09-23 17:24:00,052 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\my_test.py  setUp line:20  
+
+2017-09-23 17:24:00,052 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\my_test.py  setUp line:21  ############################### START ###############################
+2017-09-23 17:24:00,052 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\testcase\login_page.py  login line:22  ---------------------------------------------------------------------------
+2017-09-23 17:24:00,415 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  _get_elements line:47  SUCCESS    getElement 用户名, Spend 0.362999916077 seconds
+2017-09-23 17:24:00,473 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  _get_elements line:47  SUCCESS    getElement 密码, Spend 0.058000087738 seconds
+2017-09-23 17:24:07,535 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  input line:118  用户名 input sdjk1251, Spend 7.48200011253 seconds
+2017-09-23 17:24:14,584 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  input line:118  密码 input hs00147, Spend 14.5310001373 seconds
+2017-09-23 17:24:16,611 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  _get_elements line:47  SUCCESS    getElement 登录, Spend 0.0269999504089 seconds
+2017-09-23 17:24:19,744 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  click line:133  登录 click  Spend 3.13399982452 seconds
+2017-09-23 17:24:21,746 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\testcase\login_page.py  login line:25  login in  Spend 21.6930000782 seconds
+2017-09-23 17:24:30,552 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\my_test.py  tearDown line:25  ###############################  End  ###############################
+2017-09-28 21:04:01,388 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\my_test.py  setUp line:20  
+
+2017-09-28 21:04:01,529 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\my_test.py  setUp line:21  ############################### START ###############################
+2017-09-28 21:04:01,530 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\testcase\login_page.py  login line:22  ---------------------------------------------------------------------------
+2017-09-28 21:04:01,717 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  _get_elements line:47  SUCCESS    getElement 用户名, Spend 0.185000181198 seconds
+2017-09-28 21:04:01,914 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  _get_elements line:47  SUCCESS    getElement 密码, Spend 0.196000099182 seconds
+2017-09-28 21:04:08,602 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  input line:118  用户名 input sdjk1251, Spend 7.0720000267 seconds
+2017-09-28 21:04:15,538 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  input line:118  密码 input hs00147, Spend 14.0070002079 seconds
+2017-09-28 21:04:17,572 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  _get_elements line:47  SUCCESS    getElement 登录, Spend 0.0349998474121 seconds
+2017-09-28 21:04:20,701 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  click line:133  登录 click  Spend 3.1289999485 seconds
+2017-09-28 21:04:22,701 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\testcase\login_page.py  login line:25  login in  Spend 21.1710000038 seconds
+2017-09-28 21:04:31,043 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\my_test.py  tearDown line:25  ###############################  End  ###############################
+2017-09-28 21:04:39,887 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\my_test.py  setUp line:20  
+
+2017-09-28 21:04:39,888 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\my_test.py  setUp line:21  ############################### START ###############################
+2017-09-28 21:04:39,888 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\testcase\login_page.py  login line:22  ---------------------------------------------------------------------------
+2017-09-28 21:04:42,417 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  _get_elements line:47  SUCCESS    getElement 用户名, Spend 2.52900004387 seconds
+2017-09-28 21:04:42,473 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  _get_elements line:47  SUCCESS    getElement 密码, Spend 0.055999994278 seconds
+2017-09-28 21:04:48,700 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  input line:118  用户名 input sdjk125, Spend 8.81299996376 seconds
+2017-09-28 21:04:55,700 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  input line:118  密码 input hs00147, Spend 15.8120000362 seconds
+2017-09-28 21:04:57,727 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  _get_elements line:47  SUCCESS    getElement 登录, Spend 0.0269999504089 seconds
+2017-09-28 21:04:58,332 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  click line:133  登录 click  Spend 0.604000091553 seconds
+2017-09-28 21:05:00,332 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\testcase\login_page.py  login line:25  login in  Spend 20.4440000057 seconds
+2017-09-28 21:05:08,529 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\my_test.py  tearDown line:25  ###############################  End  ###############################
+2017-09-28 21:05:52,403 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\my_test.py  setUp line:20  
+
+2017-09-28 21:05:52,404 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\my_test.py  setUp line:21  ############################### START ###############################
+2017-09-28 21:05:52,404 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\testcase\login_page.py  login line:22  ---------------------------------------------------------------------------
+2017-09-28 21:05:52,700 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  _get_elements line:47  SUCCESS    getElement 用户名, Spend 0.295000076294 seconds
+2017-09-28 21:05:52,878 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  _get_elements line:47  SUCCESS    getElement 密码, Spend 0.178999900818 seconds
+2017-09-28 21:05:59,082 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  input line:118  用户名 input sdjk125, Spend 6.6779999733 seconds
+2017-09-28 21:06:06,049 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  input line:118  密码 input hs00147, Spend 13.6449999809 seconds
+2017-09-28 21:06:08,076 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  _get_elements line:47  SUCCESS    getElement 登录, Spend 0.0269999504089 seconds
+2017-09-28 21:06:09,066 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  click line:133  登录 click  Spend 0.990000009537 seconds
+2017-09-28 21:06:11,068 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\testcase\login_page.py  login line:25  login in  Spend 18.6630001068 seconds
+2017-09-28 21:06:49,233 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\base_page.py  _get_elements line:51  FAIL    getElement 发帖输入框, Spend 30.1180000305 seconds
+2017-09-28 21:06:52,055 root INFO E:\documents\gitDir\pythonDevDir\MobileAutoTest\src\common\my_test.py  tearDown line:25  ###############################  End  ###############################

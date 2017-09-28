@@ -30,6 +30,7 @@ class TestHomePage(my_test.MyTest):
 
         # 登录
         login_pg.login()
+        # login_pg.get_toast()
         # 滑动
         home_pg.swipe_test()
         # 发帖

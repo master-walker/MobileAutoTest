@@ -16,6 +16,8 @@ class LoginPageLocators(object):
     # 登录页面元素
     loginElements = [userNameInputBox, passwdInputBox, loginBtn]
 
+    # toast元素
+    toast_element = (By.XPATH, ".//*[contains(@text,'用户名不存在')]")
 
 # 首页
 class HomePageLocators(object):
